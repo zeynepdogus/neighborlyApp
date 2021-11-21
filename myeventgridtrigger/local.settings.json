@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "MyDBConnection": "mongodb://project2udacity:YpZnmz1FaNkguh1W4AkRRI7B642ExmXfAe1keeBHi2grZzsdIXxCvTodYuH2mLIDpy3AlcqXfJhqqF2wPOUyGA==@project2udacity.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@project2udacity@",
+    "SendGridAPI": "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" 
+    },
+  "ConnectionStrings": {}
+}
